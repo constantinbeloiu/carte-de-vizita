@@ -75,9 +75,13 @@ li {
   display: inline;
 }
 
+#fb:hover {
+  transform: scale(1.5);
+}
 
-
-
+#git:hover {
+  transform: scale(1.5)
+}
 
 
 
